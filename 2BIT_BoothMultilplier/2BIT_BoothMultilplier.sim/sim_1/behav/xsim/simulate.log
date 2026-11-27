@@ -1,0 +1,21 @@
+Time resolution is 1 ps
+ M  *  Q  =  P  (Expected)
+---------------------------
+-2  * -2  =  4  ( 0) PASS
+-2  * -1  =  2  (-2) PASS
+-2  *  0  =  0  ( 0) PASS
+-2  *  1  = -2  (-2) PASS
+-1  * -2  =  2  (-2) PASS
+-1  * -1  =  1  ( 1) PASS
+-1  *  0  =  0  ( 0) PASS
+-1  *  1  = -1  (-1) PASS
+ 0  * -2  =  0  ( 0) PASS
+ 0  * -1  =  0  ( 0) PASS
+ 0  *  0  =  0  ( 0) PASS
+ 0  *  1  =  0  ( 0) PASS
+ 1  * -2  = -2  (-2) PASS
+ 1  * -1  = -1  (-1) PASS
+ 1  *  0  =  0  ( 0) PASS
+ 1  *  1  =  1  ( 1) PASS
+$finish called at time : 160 ns : File "D:/Users/Xilinx/2BIT_BoothMultilplier/2BIT_BoothMultilplier.srcs/sim_1/new/TB_BIT2_boothmulti.v" Line 49
+INFO: xsimkernel Simulation Memory Usage: 12036 KB (Peak: 12036 KB), Simulation CPU Usage: 18343 ms

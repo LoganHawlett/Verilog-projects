@@ -1,0 +1,7 @@
+Running: xsim.dir/TB_BIT2_boothmulti_behav/xsimk.exe -simmode gui -wdb TB_BIT2_boothmulti_behav.wdb -simrunnum 0 -socket 60075
+Design successfully loaded
+Design Loading Memory Usage: 11068 KB (Peak: 11068 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 12036 KB (Peak: 12036 KB)
+Simulation CPU Usage: 18343 ms
